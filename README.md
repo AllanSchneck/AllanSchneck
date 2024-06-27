@@ -5,7 +5,7 @@
 
 - 📚 Estudando agora **Java, Python, HTML, CSS, Javascript**
 
-- 💬 **Meu nome é Allan, sou intrigado pela tecnologia desde muito novo aos meus 3 anos tive meu primeiro Megadrive e ao começar na programação identifiquei algo em comum com os games, na programação temos fases mais difíceis e outras mais leves e ao final de toda fase tem uma recompensa, futuramente pretendo inserir um portfólio aqui contando mais sobre mim.**
+- 💬 **Meu nome é Allan, sou intrigado pela tecnologia desde muito novo, aos meus 3 anos tive meu primeiro Megadrive e ao começar na programação identifiquei algo em comum com os games, na programação temos fases mais difíceis e outras mais leves e ao final de toda fase tem uma recompensa, futuramente pretendo inserir um portfólio aqui contando mais sobre mim.**
 
 - ✉️ Você pode me chamar **allanrichard826@gmail.com**
 

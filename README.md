@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/allan-richard-da-silva-schneck-59b5b1288/?originalsubdomain=br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allan-richard-da-silva-schneck-59b5b1288/?originalsubdomain=br" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009940515802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009940515802" height="30" width="40" /></a>
-<a href="allan_schneck" alt="https://www.instagram.com/allan_schneck/" height="30" width="40" /></a>
+<a href="allan_schneck/" alt="https://www.instagram.com/allan_schneck/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/74MqkR7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/74MqkR7z" height="30" width="40" /></a>
 </p>
 

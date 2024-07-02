@@ -1,6 +1,6 @@
 <h3 align="center">Estou atualmente estudando programação por amar aprender com meus erros.</h3>
 
-- 🎸 Atualmente estou trabalhando nesse projeto : working on [Wikipedals](https://www.figma.com/design/blEJLJCJVAkjQZt6XLmmUJ/Untitled?node-id=0-1)
+- 🎸 Atualmente estou trabalhando nesse projeto : [Wikipedals](https://www.figma.com/design/blEJLJCJVAkjQZt6XLmmUJ/Untitled?node-id=0-1)
 
 - 💬 **Meu nome é Allan, sou intrigado pela tecnologia desde muito novo, aos meus 3 anos tive meu primeiro Megadrive e ao começar na programação identifiquei algo em comum com os games, na programação temos fases mais difíceis e outras mais leves e ao final de toda fase tem uma recompensa, futuramente pretendo inserir um portfólio aqui contando mais sobre mim.**
 

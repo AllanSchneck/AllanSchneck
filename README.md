@@ -1,4 +1,4 @@
-<h3 align="center">A passionEstou atualmente estudando programação por amar aprender com meus erros.ate frontend developer from India</h3>
+<h3 align="center">Estou atualmente estudando programação por amar aprender com meus erros.ate frontend developer from India</h3>
 
 - 🎸 Atualmente estou trabalhando nesse projeto : working on [Wikipedals](https://www.figma.com/design/blEJLJCJVAkjQZt6XLmmUJ/Untitled?node-id=0-1)
 

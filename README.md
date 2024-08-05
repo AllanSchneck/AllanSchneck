@@ -8,7 +8,7 @@
 
 - 📄 Minhas experiências você pode acompanhar ➡️ aqui [https://www.linkedin.com/in/allan-richard-da-silva-schneck-59b5b1288/?originalSubdomain=br](https://www.linkedin.com/in/allan-richard-da-silva-schneck-59b5b1288/?originalSubdomain=br)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/allan-richard-da-silva-schneck-59b5b1288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allan-richard-da-silva-schneck-59b5b1288" height="30" width="40" /></a>
 <a href="https://fb.com/100009940515802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100009940515802" height="30" width="40" /></a>

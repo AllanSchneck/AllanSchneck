@@ -2,7 +2,7 @@
 
 <!-- 🎸 Atualmente estou trabalhando nesse projeto : [Wikipedals](https://www.figma.com/design/blEJLJCJVAkjQZt6XLmmUJ/Untitled?node-id=0-1) coming soon-->
 
-- 💬 **Sou intrigado pela tecnologia desde muito novo, aos meus 3 anos tive meu primeiro Megadrive e ao começar na programação identifiquei algo em comum com os games, na programação temos fases mais difíceis e outras mais leves e ao final de toda fase tem uma recompensa, futuramente pretendo inserir um portfólio aqui contando mais sobre mim.**
+- 💬 **Sou intrigado pela tecnologia desde muito novo, aos meus 3 anos tive meu primeiro Megadrive e ao começar na programação identifiquei algo em comum com os games, na programação temos fases mais difíceis e outras mais leves e ao final de toda fase tem uma recompensa..**
 
 - ✉️ Você pode me chamar **allanrichard826@gmail.com**
 
